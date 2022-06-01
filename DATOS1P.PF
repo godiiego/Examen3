@@ -1,0 +1,17 @@
+     A*********************************************
+     A*  DATOS1P -                                *
+     A*********************************************
+     A                                      UNIQUE
+     A          R RDATOS1P
+     A            TARJET        22A         TEXT('Tarjeta')
+     A            CLIENT        25A         TEXT('Nombres y Apellidos')
+     A            CAPV00        15A         TEXT('Capital Vencido 00')
+     A            CAPV01        15A         TEXT('Capital Vencido 01')
+     A            CAPV02        15A         TEXT('Capital Vencido 02')
+     A            PVEC00        15A         TEXT('Capital por Vencer 00')
+     A            PVEC01        15A         TEXT('Capital por Vencer 01')
+     A            PVEC02        15A         TEXT('Capital por Vencer 02')
+     A            SITUAC         2S 0       TEXT('Codigo situacion actual')
+     A            CARDIA         3S 0       TEXT('Dia en Curso')
+     A            FECPRO        10A         TEXT('Fecha Proceso')
+     A          K TARJET                                                  
