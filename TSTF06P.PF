@@ -1,0 +1,21 @@
+     A                                      UNIQUE
+     A          R RTSTF06P
+     A            F6TARJ        22A         TEXT('Tarjeta')
+     A            F6APEL        15A         TEXT('Primer Apellido')
+     A            F6NOMB        15A         TEXT('Primer Nombre')
+     A            F6BIN          8A         TEXT('Bin')
+     A            F6FFIN        10A         TEXT('Fecha Final')
+     A            F6CVEN        15A         TEXT('Capital Vencido')
+     A            F6CXVN        15A         TEXT('Capital por Vender')
+     A            F6CTOT        15S 2       TEXT('Total capital')
+     A            F6SITU         2S 0       TEXT('Código situación')
+     A            F6MESP         2S 0       TEXT('Mes de proceso')
+     A            F6DPRM         6S 0       TEXT('Días promedios')
+     A            F6VSIT        12S 0       TEXT('Valor situación')
+     A            F6UCRT        10A         TEXT('Usuario Creación')
+     A            F6FCRT        10A         TEXT('Fecha Creación')
+     A            F6HCRT        10A         TEXT('Hora Creación')
+     a            F6UUDT        10A         TEXT('Usuario Modificación')
+     A            F6FUDT        10A         TEXT('Fecha Modificación')
+     A            F6HUDT        10A         TEXT('Hora Modificación')
+     A          K F6TARJ                                                         
